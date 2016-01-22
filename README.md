@@ -1,6 +1,6 @@
 # Image to Emoji
 
-A tiny educational project that demostrates transforming an image to a similar image made of emojis.
+A tiny educational project that demonstrates transforming an image to a similar image made of emojis.
 
 Full documentation and details (in Hebrew) can be found here:
 
